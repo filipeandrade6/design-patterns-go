@@ -12,10 +12,23 @@ In below example
  - We have a gunFactory struct which creates the gun of type **ak47** or **maverick**.
  - The **main.go** acts as a client and instead of directly interacting with **ak47** or **maverick**, it relies on **gunFactory** to create instances of **ak47** and **maverick**
 
-UML Diagram
+### UML Diagram
 
 ![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/factory/imgs/Factory-Design-Pattern-1.jpg?raw=true)
 
 UML Diagram with the example given above
 
-![uml diagram with example](https://github.com/filipeandrade6/go-deisgn-patterns/blob/master/factory/imgs/Factory-Design-Pattern-2.jpg)
+![uml diagram with example](https://github.com/filipeandrade6/go-design-patterns/blob/master/factory/imgs/Factory-Design-Pattern-2.jpg?raw=true)
+
+### Mapping:
+
+The below table represents the mapping from the UML diagram actors to actual implementation actors in **“Example”** below
+
+UML | Example
+- | -
+ProductFactory | Column 2
+iProduct | iGun.go
+Product | gun.go
+Concrete iProduct 1 | ak47go
+Concrete iProduct 1 | maverick.go
+Client | main.go
