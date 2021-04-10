@@ -24,11 +24,11 @@ UML Diagram with the example given above
 
 The below table represents the mapping from the UML diagram actors to actual implementation actors in **“Example”** below
 
-UML | Example
-- | -
-ProductFactory | Column 2
-iProduct | iGun.go
-Product | gun.go
-Concrete iProduct 1 | ak47go
-Concrete iProduct 1 | maverick.go
-Client | main.go
+| UML | Example |
+| - | - |
+| ProductFactory | gunFactory.go |
+| iProduct | iGun.go |
+| Product | gun.go |
+| Concrete iProduct 1 | ak47go |
+| Concrete iProduct 1 | maverick.go |
+| Client | main.go |
