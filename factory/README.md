@@ -14,8 +14,8 @@ In below example
 
 UML Diagram
 
-![uml diagram](https://github.com/filipeandrade6/go-deisgn-patterns/factory/Factory-Design-Pattern-1.jpg)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/factory/imgs/Factory-Design-Pattern-1.jpg?raw=true)
 
 UML Diagram with the example given above
 
-![uml diagram with example](https://github.com/filipeandrade6/go-deisgn-patterns/factory/Factory-Design-Pattern-2.jpg)
+![uml diagram with example](https://github.com/filipeandrade6/go-deisgn-patterns/blob/master/factory/imgs/Factory-Design-Pattern-2.jpg)
