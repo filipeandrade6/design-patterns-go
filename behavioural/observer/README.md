@@ -19,7 +19,7 @@ Generally, **Subject** and **Observer** are implemented as an interface. Concret
 
 ### UML Diagram:
 
- ![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/observer/img/Observer-Design-Pattern-1.jpg?raw=true)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/observer/img/Observer-Design-Pattern-1.jpg?raw=true)
 
 ### Mapping:
 
