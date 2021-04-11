@@ -12,18 +12,18 @@ The object to be cloned exposes a clone method which returns a clone copy of the
 
 ### UML Diagram
 
-![Prototype-Pattern](https://github.com/filipeandrade6/go-design-patterns/creational/prototype/img/Prototype-Pattern.jpg?raw=true)
+![Prototype-Pattern](https://github.com/filipeandrade6/go-design-patterns/blob/master/creational/prototype/img/Prototype-Pattern.jpg?raw=true)
 
 ### Mapping
 
 The below table represents the mapping from the UML diagram actors to actual implementation actors in code.
 
-UML | Example
-- | -
-prototype interface | inode.go
-Concrete Prototype 1 | file.go
-Concrete Prototype 2 | folder.go
-client | main.go
+| UML | Example |
+| - | - |
+| prototype interface | inode.go |
+| Concrete Prototype 1 | file.go |
+| Concrete Prototype 2 | folder.go |
+| client | main.go |
 
 ### Practical Example
 
