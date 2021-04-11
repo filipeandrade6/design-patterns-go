@@ -15,7 +15,7 @@ The main idea behind this pattern is to expose the iteration logic of a Collecti
 
 ### UML Diagram:
 
-![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/iterator/img/Iterator-Design-Pattern-1.jpg.jpg?raw=true)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/iterator/img/Iterator-Design-Pattern-1.jpg?raw=true)
 
 ### Mapping
 
