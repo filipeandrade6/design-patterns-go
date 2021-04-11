@@ -1,5 +1,7 @@
 ## Observer Design Pattern
 
+[Refactoring Guru](https://refactoring.guru/design-patterns/observer)
+
 Observer Design Pattern is a behavioral design pattern. This pattern allows an instance **(called subject)** to publish events to other multiple instances **(called observers)**.  These **observers** subscribe to the **subject** and hence get notified by events in case of any change happening in the **subject**.
 
 Let’s take an example. In the E-Commerce website, many items go out of stock. There can be customers, who are interested in a particular item that went out of stock. There are three solutions to this problem

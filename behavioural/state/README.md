@@ -1,5 +1,7 @@
 ## State Design Pattern
 
+[Refactoring Guru](https://refactoring.guru/design-patterns/state)
+
 State design pattern is a behavioral design pattern that is based on Finite State Machine. We will explain the State Design Pattern in the context of an example of a Vending Machine. For simplicity, let’s assume that vending machine only has one type of item or product. Also for simplicity lets assume that a Vending Machine can be in 4 different states
 
  1. **hasItem**
