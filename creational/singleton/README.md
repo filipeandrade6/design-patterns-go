@@ -1,5 +1,7 @@
 ## Singleton Design Patern
 
+[Refactoring Guru](https://refactoring.guru/design-patterns/singleton)
+
 Singleton Design Pattern is a creational design pattern and also one of the most commonly used design pattern. This pattern is used when only a single instance of the struct should exist. This single instance is called a singleton object. Some of the cases where the singleton object is applicable:
 
  1. **DB instance** – we only want to create only one instance of DB object and that instance will be used throughout the application.
