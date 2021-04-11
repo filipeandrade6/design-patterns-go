@@ -14,7 +14,7 @@ Complement by [Refactoring Guru](https://refactoring.guru/design-patterns).
   - Prototype
   - Singleton
 
-- **Behavioural** etake care of effective communication and the assignment of responsibilities between objects.
+- **Behavioural patterns** take care of effective communication and the assignment of responsibilities between objects.
   - Chain of Responsiblity
   - Command
   - Iterator
@@ -27,7 +27,7 @@ Complement by [Refactoring Guru](https://refactoring.guru/design-patterns).
   - Template Method
   - Visitor
 
- - **Structural** explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient.
+ - **Structural patterns** explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient.
    - Adapter
    - Bridge
    - Composite

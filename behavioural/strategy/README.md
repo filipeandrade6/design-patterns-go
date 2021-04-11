@@ -22,11 +22,11 @@ Now our main **Cache** class will embed **evictionAlgo** interface. Instead of i
 
 Notice below UML diagram, Context (Cache) embeds the strategy (evictionAlgo) interface.
 
-[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/strategy/img/Strategy-Design-Pattern-1?raw=true)
+[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/strategy/img/Strategy-Design-Pattern-1.jpg?raw=true)
 
 Below is the corresponding mapping UML diagram with the example given above
 
-[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/strategy/img/Strategy-Design-Pattern-2?raw=true)
+[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/strategy/img/Strategy-Design-Pattern-2.jpg?raw=true)
 
 ### Mapping
 
