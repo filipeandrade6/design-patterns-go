@@ -1,4 +1,4 @@
-## Go Design Pattern
+## Go Design Patterns
 
 Code from [Golang By Example](https://golangbyexample.com/all-design-patterns-golang/).
 
