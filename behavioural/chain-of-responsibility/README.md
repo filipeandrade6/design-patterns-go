@@ -1,5 +1,7 @@
 ## Chain of Responsibility Design Pattern
 
+[Refactoring Guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
+
 Chain of Responsibility Design Pattern is a behavioral design pattern. It lets you create a chain of request handlers. For every incoming request, it is passed through the chain and each of the handler:
 
  1. Processes the request or skips the processing.
@@ -23,11 +25,11 @@ As in the example of the hospital, a patient first goes to the reception and the
 
 UML Diagram:
 
-[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/chain-of-responsibility/img/Chain-of-Responsibility-Design-Pattern-1.jpg?raw=true)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/chain-of-responsibility/img/Chain-of-Responsibility-Design-Pattern-1.jpg?raw=true)
 
 Below is the corresponding mapping UML diagram with the practical example given below
 
-[](![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/chain-of-responsibility/img/Chain-of-Responsibility-Design-Pattern-2.jpg?raw=true)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/behavioural/chain-of-responsibility/img/Chain-of-Responsibility-Design-Pattern-2.jpg?raw=true)
 
 ### Mapping
 
