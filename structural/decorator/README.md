@@ -1,5 +1,7 @@
 ### Decorator Design Pattern
 
+[Refactoring Guru](https://refactoring.guru/design-patterns/decorator)
+
 Decorator design pattern is a structural design pattern. It lets you provide additional functionality or decorates an object without altering that object.
 
 It is better understood with an example. Imagine you are opening a pizza chain. You started with two kinds of pizzas
