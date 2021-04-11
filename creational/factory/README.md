@@ -14,11 +14,11 @@ In below example
 
 ### UML Diagram
 
-![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/factory/imgs/Factory-Design-Pattern-1.jpg?raw=true)
+![uml diagram](https://github.com/filipeandrade6/go-design-patterns/blob/master/creational/factory/img/Factory-Design-Pattern-1.jpg?raw=true)
 
 UML Diagram with the example given above
 
-![uml diagram with example](https://github.com/filipeandrade6/go-design-patterns/blob/master/factory/imgs/Factory-Design-Pattern-2.jpg?raw=true)
+![uml diagram with example](https://github.com/filipeandrade6/go-design-patterns/blob/master/creational/factory/img/Factory-Design-Pattern-2.jpg?raw=true)
 
 ### Mapping:
 
