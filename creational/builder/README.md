@@ -6,7 +6,7 @@ Builder Pattern is a creational design pattern used for constructing complex obj
 
 ### UML Diagram
 
-![uml diagram with example](https://github.com/filipeandrade6/go-design-patterns/blob/master/creational/builder/img/Builder-Design-Patter-1?raw=true)
+![uml diagram with example](https://github.com/filipeandrade6/go-design-patterns/blob/master/creational/builder/img/Builder-Design-Patter-1.jpg?raw=true)
 
 ### Mapping (Also Refer 5th point – Example)
 
